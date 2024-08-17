@@ -66,6 +66,7 @@ div#one {
     text-align: center;
     padding: 30px ;
     color: #fff;
+    border: 2px solid black;
    
 }
 h1{
@@ -76,7 +77,8 @@ h1{
 
 .nature_card{
     width: 200px;
-    padding: 0px 0 30px 0;
+    /* padding: 0px 0 30px 0; */
+    padding: 30px;
     border: 2px solid orange;
     /* text-align: right; */
     text-align: center;
