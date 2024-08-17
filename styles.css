@@ -1,4 +1,4 @@
-body{
+/* body{
     background-color: blueviolet;
     color: white;
     font-size: 100px;
@@ -25,4 +25,62 @@ h2{
     background-color: #b50606;
     font-size: 20px;
     color: #ffffff;
+} */
+body{
+    /* background-color: #000; */
+}
+
+/* #whiteBox{
+    background-color: #fff;
+    padding: 25px;
+}
+
+#pinkBox{
+    background-color: pink;
+} */
+
+
+/* 
+div#one {
+    font-size: 50px;
+} */
+#one {
+    font-size: 50px;
+}
+.two,.three,.four,.five,.six{
+    color:blue;
+    font-weight: bold;
+}
+
+
+
+.insta_logo{
+    width: 30px;
+   
+}
+
+
+.insta_container{
+    width: 200px;
+    background-color: rgb(248, 20, 175);
+    text-align: center;
+    padding: 30px ;
+    color: #fff;
+   
+}
+h1{
+    text-transform: uppercase;
+    /* position: relative;
+    top: -50px; */
+}
+
+.nature_card{
+    width: 200px;
+    padding: 0px 0 30px 0;
+    border: 2px solid orange;
+    /* text-align: right; */
+    text-align: center;
+}
+.nature{
+    width: 100%;
 }
