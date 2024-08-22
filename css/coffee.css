@@ -1,0 +1,33 @@
+.coffee_shop_header{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.coffee_shop_logo{
+    width: 100px;
+}
+
+.coffee_shop_links a{
+    color: #422311;
+    text-decoration: none;
+    font-size: 24px;
+    margin-right: 25px;
+}
+
+.coffee_shop_info{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+.coffee_shop_info h1{
+    font-size: 70px;
+    font-weight: bold;
+    color: #422311;
+}
+
+.coffee_shop_info p{
+    font-size: 35px;
+    font-weight: bold;
+    color: #422311;
+}
