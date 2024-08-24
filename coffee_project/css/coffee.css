@@ -1,3 +1,13 @@
+
+*{
+    border: 1px solid red;
+}
+
+body{
+    /* overflow-x: hidden; */
+}
+
+
 .coffee_shop_header{
     padding: 10px;
     display: flex;
@@ -31,4 +41,8 @@
     font-size: 35px;
     font-weight: bold;
     color: #422311;
+}
+
+.coffee_shop_banner_img{
+    width: 100%;
 }
