@@ -3,3 +3,10 @@ https://www.flaticon.com/
 
 //for animations
 https://animate.style/
+
+
+//font family
+'Orbitron', sans-serif
+
+//web page
+https://www.wix.com/website-template/view/html/2852?originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates&tpClick=view_button&esi=3754462a-b567-41a6-bfaa-404030f836c4
