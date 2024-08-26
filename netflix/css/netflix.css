@@ -1,7 +1,7 @@
 body{
     /* background-color: aqua; */
     /* background-image: url('../images/nature.png'); */
-    background-color: #000;
+    background: linear-gradient(90deg, rgba(189,17,129,1) 0%, rgba(9,94,111,1) 100%);
     font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
 }
 .netflix_header{
