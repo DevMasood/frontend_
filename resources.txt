@@ -1,5 +1,8 @@
 //  for icons
 https://www.flaticon.com/
+https://lordicon.com/
+https://feathericons.com/
+https://atlasicons.vectopus.com/
 
 //for animations
 https://animate.style/
@@ -10,3 +13,9 @@ https://animate.style/
 
 //web page
 https://www.wix.com/website-template/view/html/2852?originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates&tpClick=view_button&esi=3754462a-b567-41a6-bfaa-404030f836c4
+
+
+//
+https://66cdbf62401f1cecf5b7ad11--poetic-treacle-898e02.netlify.app/
+
+
