@@ -18,4 +18,6 @@ https://www.wix.com/website-template/view/html/2852?originUrl=https%3A%2F%2Fwww.
 //
 https://66cdbf62401f1cecf5b7ad11--poetic-treacle-898e02.netlify.app/
 
+https://getbootstrap.com/docs/4.0/examples/carousel/
+
 

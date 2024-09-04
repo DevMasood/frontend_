@@ -1,6 +1,30 @@
 
-.btn-primary{
-    background-color: transparent!important;
-    color: #000;
-    border: 1px solid #000;
+
+
+.header{
+    background-color: #343a40;
+    color: #fff;
+    display: flex;
+   border: 2px solid red;
+   padding: 15px;
+   justify-content: space-between;
+  
+}
+.btn{
+    color: #fff;
+    font-size: 20px;
+    font-style: italic;
+}
+
+
+.circle{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 50%;
+}
+.boat{
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
 }
