@@ -1,0 +1,39 @@
+.container{
+    /* border: 1px solid red; */
+}
+
+.container-fluid{
+    /* border: 1px solid red; */
+    background-image: url(../images/zomato.jpg);
+    background-size: cover;
+    height: 600px;
+}
+
+.header{
+    display: flex;
+    color: #fff;
+    justify-content: space-between;
+    padding: 15px;
+}
+.btn{
+    color: #fff;
+    border-right: 1px solid #fff;
+}
+.btn:last-child{
+    border-right: none;
+}
+.btn:hover{
+    color: pink;
+    /* text-decoration: underline; */
+}
+.zomato_info{
+    margin-top: 100px;
+}
+
+.food_section{
+    margin-top: 25px;
+}
+.food_container{
+    border-radius: 8px;
+    overflow: hidden;
+}
